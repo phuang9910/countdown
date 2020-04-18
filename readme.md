@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <title>Bootstrap Example</title>
@@ -101,7 +100,7 @@ body {
 <!-- code start!!~~-->
 <div class="container-fluid bg-white text-secondary">
 	<div class="row">
-    	<BR> <BR>
+    	<BR>
     </div>
 	<div class="row">
     	<div class="col-12 text-center">
